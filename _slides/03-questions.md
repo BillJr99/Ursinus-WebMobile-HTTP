@@ -2,7 +2,7 @@
 transition: zoom
 ---
 
-## What Happens When You Make a Web Request?
+## Details
 
 - How do we determine an IP address from a host name?
 - How do we communicate which page we want to access in a methodical way?
