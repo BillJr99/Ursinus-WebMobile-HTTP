@@ -2,6 +2,6 @@
 slide: 06-clients
 ---
 
-## Progressive Web Apps
+## HTTP Clients with cURL
 
-<iframe frameborder="0" width="100%" height="500px" src="https://repl.it/@BillJr99/pwa-example-static?lite=true"></iframe>
+<img src="./images/curl-weatherusa.png" alt="cURL Web Service Client Call" width="640">
