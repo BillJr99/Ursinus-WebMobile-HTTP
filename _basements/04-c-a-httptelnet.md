@@ -4,4 +4,4 @@ slide: 04-c-httptelnet
 
 ## HTTP
 
-![Wireshark Trace](./images/wireshark.png)
+<img src="./images/wireshark.png" alt="Wireshark Trace" width="640">
