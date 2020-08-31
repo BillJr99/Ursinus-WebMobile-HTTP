@@ -4,4 +4,4 @@ slide: 04-d-httpstelnet
 
 ## HTTPS
 
-![HTTPS Request with Telnet](./images/telnet-https-request-3.png =640x)
+<img src="./images/telnet-https-request-3.png" width="640" alt="HTTPS Request with Telnet">
