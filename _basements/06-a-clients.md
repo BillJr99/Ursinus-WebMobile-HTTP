@@ -30,3 +30,5 @@ https.get('https://api.weatherusa.net/v1/obs?station_id=KLOM', (resp) => {
   console.log(e.message);
 });
 ```
+
+- Save as `httpclient.js` and run with: `node httpclient.js`
