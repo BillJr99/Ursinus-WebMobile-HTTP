@@ -7,7 +7,7 @@ favicon: assets/favicon.ico                             # Icon displayed in the 
 reveal:
   title: "HTTP Requests"
   transition: "fade" # none/fade/slide/convex/concave/zoom
-  theme: "moon" # beige/blood/league/moon/night/serif/simple/sky/solarized/white
+  theme: "sky" # beige/blood/league/moon/night/serif/simple/sky/solarized/white
   number: true
   numberType: "c/t" # "c" / "h.v" / "h/v" / "c/t"
 
