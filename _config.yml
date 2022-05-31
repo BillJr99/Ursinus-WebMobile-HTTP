@@ -21,7 +21,7 @@ collections:
     permalink: /:collection/:name
 
 # Analytics  
-google_analytics         : "UA-24052857-1"
+google_analytics         : "G-0CXXV6F2JP"
 
 # BUILD SETTINGS
 markdown: kramdown
